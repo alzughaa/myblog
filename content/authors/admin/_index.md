@@ -12,7 +12,7 @@ education:
     institution: Qassim University
     year: 2013
 email: "alzughaa@email.sc.edu"
-highlight_name: false
+highlight_name: true
 interests:
 - Reading Instruction
 - Reading Development
@@ -41,7 +41,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Ali Alzughaibi
 ---
 
 Ali Alzughaibi is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
