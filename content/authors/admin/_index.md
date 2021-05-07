@@ -3,8 +3,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD Language and Literacy
+    institution: University of South Carolina
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
