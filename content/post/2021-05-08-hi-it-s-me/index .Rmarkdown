@@ -1,5 +1,5 @@
 ---
-title: What the Heck!
+title: WELCOME!
 author: Ali Alzughaibi
 date: '2021-05-08'
 slug: index
@@ -17,4 +17,6 @@ image:
 projects: []
 ---
 
-I have been trying to see how this works! It took a while. Now le'ts try and do some other things, shall we? Yallah.
+## **The Story!**
+
+I've been playing with *Rmakdown* to build a website where I post stuff about my own interests and contribution. This is a really great start!
