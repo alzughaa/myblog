@@ -25,4 +25,5 @@ I've been playing with *Rmakdown* to build my own website where I post stuff abo
 For now you can watch some farmer singing Jazz to cows [right here!](https://www.youtube.com/watch?v=lXKDu6cdXLI)
 
 
+![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
 
