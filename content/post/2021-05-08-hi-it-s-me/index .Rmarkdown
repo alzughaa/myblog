@@ -13,21 +13,15 @@ featured: no
 image:
   caption: ''
   focal_point: ''
-  preview_only: yes
+  preview_only: no
 projects: []
 ---
 
 ## **The Story!**
 
+
 I've been playing with *Rmakdown* to build a website where I post stuff about my own interests and contribution. This is a really great start!
 
-### WHY SHOULD YOU CARE?! 
 
-I don't know but I have a video of a farmer singing Jazz
-to some cows! here, watch!
+<p> here's a few words and the next line should start in the following, <br> oh yeah
 
-![](https://youtu.be/zNzZ1PfUDNk)
-![](https://www.youtube.com/watch?v=zNzZ1PfUDNk)
-
-![](https://vimeo.com/142172484)
-![](https://player.vimeo.com/video/142172484)
