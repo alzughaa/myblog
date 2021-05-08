@@ -30,21 +30,18 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/lit_alzughaibi?lang=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
-- icon: linkedin
+- icon: facebook
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.facebook.com/ali.alzughaibi.1
 superuser: true
 title: Ali Alzughaibi
 ---
 
-Ali Alzughaibi is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ali Alzughaibi is a PhD Candidate at the Language and Literacy program at the University of South Carolina. His interests include first and second language reading, particularly word-level reading and cross-linguistic processing. His research primarily focuses on Arabic-English bilinguals. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
