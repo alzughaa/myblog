@@ -20,3 +20,14 @@ projects: []
 ## **The Story!**
 
 I've been playing with *Rmakdown* to build a website where I post stuff about my own interests and contribution. This is a really great start!
+
+### WHY SHOULD YOU CARE?! 
+
+I don't know but I have a video of a farmer singing Jazz
+to some cows! here, watch!
+
+![](https://youtu.be/zNzZ1PfUDNk)
+![](https://www.youtube.com/watch?v=zNzZ1PfUDNk)
+
+![](https://vimeo.com/142172484)
+![](https://player.vimeo.com/video/142172484)
