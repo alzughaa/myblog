@@ -20,10 +20,9 @@ projects: []
 ## **The Story!**
 
 
-I've been playing with *Rmakdown* to build a website where I post stuff about my own interests and contribution. This is a really great start!
+I've been playing with *Rmakdown* to build my own website where I post stuff about my interests and contributions. This is a really great start!
+
+For now you can watch some farmer singing Jazz to cows [right here!](https://www.youtube.com/watch?v=lXKDu6cdXLI)
 
 
-> here's a few words and the next line should start in the following, oh yeah how is it going??
-
->> this should be indented, correct?
 
