@@ -9,7 +9,7 @@ main:
   #  weight: 10
   - name: Posts
     #url: '#posts'
-    url: 'http://localhost:4321/post/'
+    url: 'https://alialzughaibi.netlify.app/post/'
     weight: 20
   - name: Projects
     url: '#projects'
