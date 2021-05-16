@@ -9,7 +9,7 @@ main:
   #  weight: 10
   - name: Posts
     #url: '#posts'
-    url: 'https://alialzughaibi.netlify.app/post/'
+    url: 'https://alialzughaibi.netlify.app/posts/'
     weight: 20
   - name: Projects
     url: '#projects'
