@@ -26,7 +26,7 @@ main:
   - name: Courses
     url: courses/
     weight: 60
-  - name: Contact
+  #- name: Contact
     #url: '#contact'
-    url: contact/
-    weight: 70
+    #url: contact/
+   # weight: 70
