@@ -9,10 +9,13 @@ main:
   #  weight: 10
   - name: Posts
     #url: '#posts'
-    url: 'https://alialzughaibi.netlify.app/post/'
+    #url: 'https://alialzughaibi.netlify.app/post/'
+    url: post/
     weight: 20
   - name: Projects
-    url: '#projects'
+    #url: '#projects'
+    #url: 'https://alialzughaibi.netlify.app/project/'
+    url: project/
     weight: 30
   #- name: Talks
   #  url: '#talks'
@@ -24,5 +27,6 @@ main:
     url: courses/
     weight: 60
   - name: Contact
-    url: '#contact'
+    #url: '#contact'
+    url: contact/
     weight: 70
