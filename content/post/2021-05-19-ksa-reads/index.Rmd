@@ -1,0 +1,27 @@
+---
+title: 'The Saudi Language and Literacy Webinar'
+author: Ali Alzughaibi
+date: '2020-11-15'
+slug: ksa-reads
+categories: []
+tags:
+  - Academic
+subtitle: 'Check the hashtage <span style="color:blue">*#KSA_Reads*</span> on Twitter!'
+summary: ''
+authors: []
+lastmod: ''
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+## **_The Story_**
+
+I have personally been exploring reading research for more than two years during my PhD studies. Most of what I read is on English reading as L1 or L2. Much of this research is with native English speakers or speakers of English as L2 other than Arabic L1s. There is comparatively little research on Arabic L1s compared to speakers of English as L2 of other L1 backgrounds. Someone might wonder: *Why does this matter now?*
+
+It matters because research matters; literacy matters; English matters and understanding how readers. But little is spoken about literacy in my home country. Conferences and publications in the west have already been there for decades but they still have not made their way. 
+
+

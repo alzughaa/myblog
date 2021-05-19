@@ -33,7 +33,7 @@ social:
   link: https://twitter.com/lit_alzughaibi?lang=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/alzughaa
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/ali.alzughaibi.1
@@ -44,4 +44,4 @@ title: Ali Alzughaibi
 Ali Alzughaibi is a PhD Candidate at the Language and Literacy program at the University of South Carolina. His interests include first and second language reading, particularly word-level reading and cross-linguistic processing. His research primarily focuses on Arabic-English bilinguals. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Ali's_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
