@@ -6,7 +6,7 @@ slug: ksa-reads
 categories: []
 tags:
   - Academic
-subtitle: 'Check the hashtage <span style="color:blue">*#KSA_Reads*</span> on Twitter!'
+subtitle: 'Check the hashtage <span style="color:navy">*#KSA_Reads*</span> on Twitter!'
 summary: ''
 authors: []
 lastmod: ''
